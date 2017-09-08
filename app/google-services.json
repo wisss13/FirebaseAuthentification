@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "272275842912",
+    "firebase_url": "https://androidauthentification-e450d.firebaseio.com",
+    "project_id": "androidauthentification-e450d",
+    "storage_bucket": "androidauthentification-e450d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272275842912:android:eed6a77882002cab",
+        "android_client_info": {
+          "package_name": "tn.com.wihraiech.firebaseauthentification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272275842912-umiaoeon48362c41g891otmrrurvli5f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tn.com.wihraiech.firebaseauthentification",
+            "certificate_hash": "a2f8e0b4d4eac32e420f50126f5aba628bc74656"
+          }
+        },
+        {
+          "client_id": "272275842912-qcphs3qd6hn8bfmb5fhh652d184884kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsKkExxaZD3kRsC0kDn2JmFaQ73xZ-gu4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272275842912-qcphs3qd6hn8bfmb5fhh652d184884kf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
